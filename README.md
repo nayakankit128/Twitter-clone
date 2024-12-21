@@ -34,6 +34,23 @@ Endpoints:
 /api/users/:id - Fetch user details
 
 
+## .env file
+
+create .env file inside backend folder
+
+MONGO_URI=
+
+PORT=
+
+JWT_SECRET=
+
+NODE_ENV=
+
+CLOUDINARY_CLOUD_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
+
+
 ## Deployment
 
 To run this project 
@@ -55,6 +72,8 @@ To run this project
 [React.js Docs](https://react.dev/)
 
 [Node.js Docs](https://nodejs.org/en)
+
+
 
 ## Some screenshots of the project
 <img width="956" alt="signup" src="https://github.com/user-attachments/assets/5638f7dd-50d4-4293-989c-0bdae4a89981" />
